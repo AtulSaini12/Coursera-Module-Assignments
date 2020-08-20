@@ -1,5 +1,5 @@
 body {
-    padding: 0px;
+    background-color: aliceblue;
 }
 * {
     font-family: sans-serif;
@@ -24,6 +24,7 @@ body {
     border: 2px solid black;
     margin: 10px;
     padding: 10px;
+    background-color: cadetblue;
     overflow: hidden;
     position: relative;
   }
